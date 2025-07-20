@@ -115,7 +115,6 @@ class BankSystem {
 
 
 
-
     private void withdraw() {
         Account acc = getAccount();
         if (acc == null)
